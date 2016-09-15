@@ -8,7 +8,7 @@
   ],
   "description": "Bitcoin Message Verification and Signing for Bitcore",
   "moduleType": [
-    "globals"
+    "amd"
   ],
   "keywords": [
     "bitcoin",
