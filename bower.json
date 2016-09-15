@@ -1,6 +1,6 @@
 {
   "name": "bitcore-message",
-  "main": "./bitcore-message.min.js",
+  "main": "./bitcore-message.js",
   "version": "1.0.2",
   "homepage": "https://github.com/bitpay/bitcore-message",
   "authors": [
